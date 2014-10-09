@@ -6,7 +6,7 @@ Please use it like this in your pom file:
     <repository>
       <id>ChickletOnlineRepository</id>
       <name>Online Public Repository</name>
-      <url>https://github.com/chicklet/maven-repo/tree/master/</url>
+      <url>https://github.com/chicklet/maven-repo/tree/master</url>
     </repository>
   </repositories>  
   <dependencies>
