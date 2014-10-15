@@ -10,10 +10,10 @@ Please use it like this in your pom file:
     </repository>
   </repositories>  
   <dependencies>
-  	<dependency>
-  		<groupId>Chicklet</groupId>
-  		<artifactId>ChickletInterfaceApi</artifactId>
-  		<version>0.1.5</version>
-  	</dependency>
+    <dependency>
+      <groupId>Chicklet</groupId>
+      <artifactId>ChickletInterfaceApi</artifactId>
+      <version>0.1.5</version>
+    </dependency>
   </dependencies>
 
