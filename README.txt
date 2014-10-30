@@ -1,7 +1,7 @@
 Chicklet Database Maven Repository
 ==========
 
-Please use it like this in your pom file:
+Use it like this in the pom file:
   <repositories>
     <repository>
       <id>ChickletOnlineRepository</id>
