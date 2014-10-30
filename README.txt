@@ -13,7 +13,7 @@ Use it like this in the pom file:
     <dependency>
       <groupId>Chicklet</groupId>
       <artifactId>ChickletInterfaceApi</artifactId>
-      <version>0.1.5</version>
+      <version>[0.1.6,)</version>
     </dependency>
   </dependencies>
 
