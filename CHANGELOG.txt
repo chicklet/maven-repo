@@ -1,0 +1,15 @@
+[0.1.4]
+ - Aug 06, 2014 
+ - Started Maven Repository
+
+[0.1.5]
+ - Aug 09, 2014
+ - Better Connection management
+ - Redundancy Supported
+ - Maven full-fledged support
+ 
+[0.1.6]
+ - Aug 29, 2014
+ - Tag value updates
+ - Old data can be accepted
+ - Change log maintainance.
